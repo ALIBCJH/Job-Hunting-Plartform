@@ -1,0 +1,298 @@
+{
+  "jobs": [
+    {
+      "id": "1",
+      "title": "Senior React Developer",
+      "type": "Full-Time",
+      "description": "We are seeking a talented Front-End Developer to join our team in Nyeri, Kenya. The ideal candidate will have strong skills in HTML, CSS, and JavaScript, with experience working with modern JavaScript frameworks such as React or Angular.",
+      "location": "Nyeri, Kenya",
+      "salary": "Sh 70K - Sh80K",
+      "company": {
+        "name": "NewTek Solutions",
+        "description": "NewTek Solutions is a leading technology company specializing in web development and digital solutions. We pride ourselves on delivering high-quality products and services to our clients while fostering a collaborative and innovative work environment.",
+        "contactEmail": "newtek@solutions.com",
+        "contactPhone": "0797942186"
+      }
+    },
+    {
+      "id": "2",
+      "title": "Front-End Engineer (React & Redux)",
+      "type": "Full-Time",
+      "location": "Nairobi, Kenya",
+      "description": "Join our team as a Front-End Developer in sunny Nairobi, Kenya. We are looking for a motivated individual with a passion for crafting beautiful and responsive web applications. Experience with UI/UX design principles and a strong attention to detail are highly desirable.",
+      "salary": "Sh100K - Sh120K",
+      "company": {
+        "name": "Veneer Solutions",
+        "description": "Veneer Solutions is a creative agency specializing in digital design and development. Our team is dedicated to pushing the boundaries of creativity and innovation to deliver exceptional results for our clients.",
+        "contactEmail": "veneer@loremipsum.com",
+        "contactPhone": "0701202607"
+      }
+    },
+    {
+      "id": "3",
+      "title": "React.js Dev",
+      "type": "Full-Time",
+      "location": "Nakuru, Kenya",
+      "description": "Are you passionate about front-end development? Join our team in vibrant Nakuru, Kenya, and work on exciting projects that make a difference. We offer competitive compensation and a collaborative work environment where your ideas are valued.",
+      "salary": "Sh120K - Sh140K",
+      "company": {
+        "name": "Dolor Cloud",
+        "description": "Dolor Cloud is a leading technology company specializing in digital solutions for businesses of all sizes. With a focus on innovation and customer satisfaction, we are committed to delivering cutting-edge products and services.",
+        "contactEmail": "info@dolorsitamet.com",
+        "contactPhone": "0757012026"
+      }
+    },
+    {
+      "id": "4",
+      "title": "React Front-End Developer",
+      "type": "Part-Time",
+      "description": "Join our team as a Part-Time Front-End Developer in Mombasa , Kenya. We are looking for a self-motivated individual with a passion for creating engaging user experiences. This position offers flexible hours and the opportunity to work remotely.",
+      "location": "Mombasa, Kenya",
+      "salary": "Sh90K - Sh100K",
+      "company": {
+        "name": "Alpha Elite",
+        "description": "Alpha Elite is a dynamic startup specializing in digital marketing and web development. We are committed to fostering a diverse and inclusive workplace where creativity and innovation thrive.",
+        "contactEmail": "info@adipisicingelit.com",
+        "contactPhone": "0726012023"
+      }
+    },
+    {
+      "id": "5",
+      "title": "Full Stack React Developer",
+      "type": "Full-Time",
+      "description": "Exciting opportunity for a Full-Time Front-End Developer in bustling Kakamega, Kenya. We are seeking a talented individual with a passion for building elegant and scalable web applications. Join our team and make an impact!",
+      "location": "Kakamega, Kenya",
+      "salary": "Sh90K - Sh100K",
+      "company": {
+        "name": "Browning Technologies",
+        "description": "Browning Technologies is a rapidly growing technology company specializing in e-commerce solutions. We offer a dynamic and collaborative work environment where employees are encouraged to think creatively and innovate.",
+        "contactEmail": "info@dolorsitamet.com",
+        "contactPhone": "0781832325"
+      }
+    },
+    {
+      "id": "6",
+      "title": "React Native Developer",
+      "type": "Full-Time",
+      "description": "Join our team as a Front-End Developer in the beautiful city of Voi, Kenya. We are looking for a skilled and enthusiastic individual to help us create innovative web solutions. Competitive salary and great benefits package available.",
+      "location": "Voi, Kenya",
+      "salary": "Sh110K - Sh140K",
+      "company": {
+        "name": "Smarttec Solutions INC",
+        "description": "Smarttec Solutions is a leading technology company specializing in software development and digital marketing. We are committed to providing our clients with cutting-edge solutions and our employees with a supportive and rewarding work environment.",
+        "contactEmail": "info@adipisicingelit.com",
+        "contactPhone": "0798456789"
+      }
+    },
+    {
+      "id": "7",
+      "title": "Android Developer",
+      "type": "Full-Time",
+      "description": "Join our team as a Front-End Developer in the beautiful city of Mombasa, Kenya. We are looking for a skilled and enthusiastic individual to help us create innovative web solutions. Competitive salary and great benefits package available.",
+      "location": "Mombasa, Kenya",
+      "salary": "Sh109K - Sh110K",
+      "company": {
+        "name": "Port Solutions INC",
+        "description": "Port Solutions is a leading technology company specializing in software development and digital marketing. We are committed to providing our clients with cutting-edge solutions and our employees with a supportive and rewarding work environment.",
+        "contactEmail": "info@adipisicingelit.com",
+        "contactPhone": "0797942187"
+      }
+    },
+    {
+      "id": "8",
+      "title": "Junior Web Developer",
+      "type": "Full-Time",
+      "description": "We are seeking a motivated Junior Web Developer to join our fast-growing company in Kisumu, Kenya. This is an excellent opportunity for recent graduates or individuals with limited experience to grow their skills in web development.",
+      "location": "Kisumu, Kenya",
+      "salary": "Sh50K - Sh60K",
+      "company": {
+        "name": "Tech Innovators Ltd",
+        "description": "Tech Innovators Ltd is a forward-thinking technology company focused on providing innovative solutions to our clients. We value creativity and foster an environment of continuous learning.",
+        "contactEmail": "hr@techinnovators.com",
+        "contactPhone": "0789012345"
+      }
+    },
+    {
+      "id": "9",
+      "title": "Senior Full Stack Developer",
+      "type": "Full-Time",
+      "description": "An exciting opportunity awaits for a Senior Full Stack Developer to join our dynamic team in Nairobi, Kenya. We are looking for someone with experience in both front-end and back-end development who can lead projects and mentor junior developers.",
+      "location": "Nairobi, Kenya",
+      "salary": "Sh120K - Sh130K",
+      "company": {
+        "name": "Innovatech Solutions",
+        "description": "Innovatech Solutions is a cutting-edge software company that specializes in developing custom applications for businesses across various industries.",
+        "contactEmail": "careers@innovatech.com",
+        "contactPhone": "0712345678"
+      }
+    },
+    {
+      "id": "10",
+      "title": "Lead UI/UX Designer",
+      "type": "Full-Time",
+      "description": "Join our creative team as a Lead UI/UX Designer in Nairobi, Kenya. We are looking for a visionary designer who can create user-centered designs that enhance the digital experiences of our clients.",
+      "location": "Nairobi, Kenya",
+      "salary": "Sh100K - Sh120K",
+      "company": {
+        "name": "DesignHub Kenya",
+        "description": "DesignHub Kenya is a leading design agency that works with top brands to create exceptional digital experiences.",
+        "contactEmail": "contact@designhub.co.ke",
+        "contactPhone": "0723456789"
+      }
+    },
+    {
+      "id": "11",
+      "title": "React Native Engineer",
+      "type": "Part-Time",
+      "description": "We are seeking a talented React Native Engineer to work on a part-time basis in Eldoret, Kenya. The role offers flexibility in work hours and the opportunity to work remotely.",
+      "location": "Eldoret, Kenya",
+      "salary": "Sh70K - Sh80K",
+      "company": {
+        "name": "AppCreatives Ltd",
+        "description": "AppCreatives Ltd is a mobile app development company that focuses on delivering innovative solutions for startups and small businesses.",
+        "contactEmail": "jobs@appcreatives.com",
+        "contactPhone": "0701234567"
+      }
+    },
+    {
+      "id": "12",
+      "title": "Backend Node.js Developer",
+      "type": "Full-Time",
+      "description": "We are looking for a skilled Backend Node.js Developer to join our growing team in Kisumu, Kenya. The ideal candidate will have strong skills in Node.js, databases, and cloud computing.",
+      "location": "Kisumu, Kenya",
+      "salary": "Sh110K - Sh120K",
+      "company": {
+        "name": "Backend Masters",
+        "description": "Backend Masters is a technology company focusing on backend development and cloud services. We offer a collaborative environment where your technical skills will be highly valued.",
+        "contactEmail": "jobs@backendmasters.com",
+        "contactPhone": "0712345679"
+      }
+    },
+    {
+      "id": "13",
+      "title": "DevOps Engineer",
+      "type": "Full-Time",
+      "description": "Join our team as a DevOps Engineer in Nairobi, Kenya. You will be responsible for automating processes, managing infrastructure, and ensuring the smooth deployment of applications.",
+      "location": "Nairobi, Kenya",
+      "salary": "Sh130K - Sh140K",
+      "company": {
+        "name": "CloudInnovations",
+        "description": "CloudInnovations is a leader in cloud solutions and DevOps practices. We work with top organizations to help them scale and automate their operations.",
+        "contactEmail": "hr@cloudinnovations.com",
+        "contactPhone": "0701234568"
+      }
+    },
+    {
+      "id": "14",
+      "title": "Data Scientist",
+      "type": "Full-Time",
+      "description": "We are seeking a Data Scientist to join our team in Nairobi, Kenya. You will work on complex datasets, applying machine learning and statistical models to solve real-world problems.",
+      "location": "Nairobi, Kenya",
+      "salary": "Sh150K - Sh160K",
+      "company": {
+        "name": "DataInsights",
+        "description": "DataInsights is a cutting-edge data analytics company, helping businesses make informed decisions through data science and machine learning.",
+        "contactEmail": "careers@datainsights.com",
+        "contactPhone": "0712345679"
+      }
+    },
+    {
+      "id": "15",
+      "title": "Junior Backend Developer",
+      "type": "Full-Time",
+      "description": "An opportunity for a Junior Backend Developer to grow their skills in backend development. Join our team in Mombasa, Kenya, and work with experienced developers on exciting projects.",
+      "location": "Mombasa, Kenya",
+      "salary": "Sh60K - Sh70K",
+      "company": {
+        "name": "WebTech Ltd",
+        "description": "WebTech Ltd is a web development company specializing in backend systems and APIs for businesses.",
+        "contactEmail": "jobs@webtech.com",
+        "contactPhone": "0791234567"
+      }
+    },
+    {
+      "id": "16",
+      "title": "Full Stack Engineer",
+      "type": "Full-Time",
+      "description": "We are seeking a Full Stack Engineer to join our remote team. The ideal candidate will have experience in both frontend and backend technologies, including React and Node.js.",
+      "location": "Remote",
+      "salary": "Sh100K - Sh120K",
+      "company": {
+        "name": "RemoteWork Inc",
+        "description": "RemoteWork Inc is a fully remote technology company that specializes in building scalable web applications for clients worldwide.",
+        "contactEmail": "hr@remotework.com",
+        "contactPhone": "0781234567"
+      }
+    },
+    {
+      "id": "17",
+      "title": "React Developer",
+      "type": "Full-Time",
+      "description": "We are looking for a talented React Developer to join our team in Nyali, Kenya. If you have a passion for building scalable web applications and are proficient in React, we want to hear from you.",
+      "location": "Nyali, Kenya",
+      "salary": "Sh90K - Sh100K",
+      "company": {
+        "name": "Oceanic Solutions",
+        "description": "Oceanic Solutions is a digital solutions provider that specializes in building innovative web platforms for businesses around the globe.",
+        "contactEmail": "careers@oceanicsolutions.com",
+        "contactPhone": "0799123456"
+      }
+    },
+    {
+      "id": "18",
+      "title": "Senior Front-End Engineer",
+      "type": "Full-Time",
+      "description": "We are seeking a Senior Front-End Engineer with experience in React.js and TypeScript to lead our front-end development team. You will be responsible for designing and developing user interfaces for web applications.",
+      "location": "Thika, Kenya",
+      "salary": "Sh130K - Sh140K",
+      "company": {
+        "name": "NextGen Tech",
+        "description": "NextGen Tech is at the forefront of software development, providing tech solutions for clients in finance, education, and healthcare.",
+        "contactEmail": "jobs@nextgentech.co.ke",
+        "contactPhone": "0725123456"
+      }
+    },
+    {
+      "id": "19",
+      "title": "Junior React Developer",
+      "type": "Full-Time",
+      "description": "A fantastic opportunity for a Junior React Developer in Machakos, Kenya. You will work alongside senior developers and receive mentorship while contributing to exciting front-end projects.",
+      "location": "Machakos, Kenya",
+      "salary": "Sh60K - Sh70K",
+      "company": {
+        "name": "Prodev Solutions",
+        "description": "Prodev Solutions is a fast-growing startup specializing in providing software solutions to small and medium-sized enterprises.",
+        "contactEmail": "hr@prodevsolutions.com",
+        "contactPhone": "0733123456"
+      }
+    },
+    {
+      "id": "20",
+      "title": "Lead React Native Developer",
+      "type": "Full-Time",
+      "description": "We are searching for a Lead React Native Developer to spearhead mobile app development projects. If you're passionate about creating engaging mobile experiences, apply to join our team in Kisii, Kenya.",
+      "location": "Kisii, Kenya",
+      "salary": "Sh140K - Sh150K",
+      "company": {
+        "name": "Appify Solutions",
+        "description": "Appify Solutions is a mobile app development agency that specializes in creating custom mobile solutions for businesses across multiple industries.",
+        "contactEmail": "careers@appifysolutions.com",
+        "contactPhone": "0726123456"
+      }
+    },
+    {
+      "id": "21",
+      "title": "React.js Intern",
+      "type": "Internship",
+      "description": "We are offering a 6-month internship for an aspiring React.js Developer in Eldoret, Kenya. This role is ideal for someone looking to grow their development skills in a real-world environment.",
+      "location": "Eldoret, Kenya",
+      "salary": "Sh30K - Sh40K",
+      "company": {
+        "name": "Innovative Minds Ltd",
+        "description": "Innovative Minds Ltd is an innovative tech company that focuses on training the next generation of developers and providing tech solutions for startups.",
+        "contactEmail": "interns@innovativeminds.com",
+        "contactPhone": "0745123456"
+      }
+    }
+  ]
+}
